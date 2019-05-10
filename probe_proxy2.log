@@ -1,0 +1,670 @@
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :description:description
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: http://purl.org/rss/1.0/modules/content/:encoded:content:encoded, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: http://purl.org/rss/1.0/modules/content/:encoded:content:encoded
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :category:category, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :category:category
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :category:category, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :category:category
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :pubDate:pubDate, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :pubDate:pubDate
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :author:author, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :author:author
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :guid:guid, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :guid:guid
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :item:item
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :item:item, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :title:title, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :title:title
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :link:link, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :link:link
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :description:description, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :description:description
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: http://purl.org/rss/1.0/modules/content/:encoded:content:encoded, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: http://purl.org/rss/1.0/modules/content/:encoded:content:encoded
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :category:category, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :category:category
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :category:category, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :category:category
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :category:category, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :category:category
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :category:category, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :category:category
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :pubDate:pubDate, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :pubDate:pubDate
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :author:author, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :author:author
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :guid:guid, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :guid:guid
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :item:item
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :item:item, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :title:title, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :title:title
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :link:link, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :link:link
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :description:description, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@38f630

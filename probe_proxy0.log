@@ -1,0 +1,70 @@
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :pubDate:pubDate
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :author:author, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :author:author
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :guid:guid, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :guid:guid
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@527779
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :item:item
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :channel:channel
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@145c121
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :rss:rss
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endPrefixMapping
+FINER: SAXConnector.endPrefixMapping: content
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endPrefixMapping
+FINER: SAXConnector.endPrefixMapping: dc
+Apr 29, 2019 4:04:56 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endDocument
+FINER: SAXConnector.endDocument
+Apr 29, 2019 4:08:26 PM edu.hawaii.ics.csdl.jupiter.util.JupiterLogger debug
+INFO: the window was closed.
